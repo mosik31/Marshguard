@@ -1,0 +1,10 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+httpx==0.28.1
+networkx==3.4.2
+python-dotenv==1.0.1
+# Optional: real photo classification with your trained YOLOv8 weights
+# ultralytics==8.3.40
+
+# Testing
+pytest==8.3.4
